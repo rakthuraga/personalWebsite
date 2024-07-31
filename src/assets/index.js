@@ -25,6 +25,11 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import lavalab from "./company/lavalab.png";
+import rhomanAerospace from "./company/rhomanAerospace.png";
+import reussPharmacy from "./company/reussPharmacy.png";
+import scaleAI from "./company/scaleAI.png";
+import Mubotics from "./company/Mubotics.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -59,4 +64,9 @@ export {
   carrent,
   jobit,
   tripguide,
+  lavalab,
+  rhomanAerospace,
+  reussPharmacy,
+  scaleAI,
+  Mubotics,
 };
