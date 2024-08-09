@@ -244,7 +244,7 @@ const projects = [
   {
     name: "InfectaScan",
     description:
-      "fill-in",
+      "Web application that determines the correct type of bacteria given a new image in testing allowing hospitals to identify antibiotic misuse in patients up to 70 times faster than traditional methods.",
     tags: [
       {
         name: "python",
