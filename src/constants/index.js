@@ -36,6 +36,9 @@ import {
   axlePic,
   infectaScanPic,
   jobSearchPic,
+  thomasYoumans,
+  jonathanWavell,
+  hiddenProfile,
 } from "../assets";
 
 export const navLinks = [
@@ -196,7 +199,7 @@ const testimonials = [
     name: "Thomas Youmans",
     designation: "CEO",
     company: "Rhoman Aerospace",
-    image: "thomasYoumans.png",
+    image: thomasYoumans,
   },
   {
     testimonial:
@@ -204,7 +207,7 @@ const testimonials = [
     name: "Jonathan Wavell",
     designation: "Project Manager",
     company: "Rhoman Aerospace",
-    image: "jonathanWavell.png",
+    image: jonathanWavell,
   },
   {
     testimonial:
@@ -212,7 +215,7 @@ const testimonials = [
     name: "Anand Yaparla",
     designation: "CEO",
     company: "Reuss Pharmacy",
-    image: "hiddenProfile.png",
+    image: hiddenProfile,
   },
 ];
 

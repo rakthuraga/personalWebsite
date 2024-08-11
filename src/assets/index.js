@@ -43,6 +43,10 @@ import tripguide from "./tripguide.png";
 import axlePic from "./axlePic.png";
 import infectaScanPic from "./infectaScanPic.png"
 import jobSearchPic from "./jobSearchPic.png"
+import thomasYoumans from "/thomasYoumans.png"
+import jonathanWavell from "/jonathanWavell.png"
+import hiddenProfile from "/hiddenProfile.png"
+
 
 export {
   logo,
@@ -87,4 +91,7 @@ export {
   infectaScanPic,
   jobSearchPic,
   logoRak,
+  thomasYoumans,
+  jonathanWavell,
+  hiddenProfile,
 };
