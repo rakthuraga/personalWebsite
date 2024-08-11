@@ -220,7 +220,7 @@ const projects = [
   {
     name: "Axle",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A cutting-edge B2B SaaS web-based platform that serves as an e-commerce site for car parts.",
     tags: [
       {
         name: "react",
@@ -241,7 +241,7 @@ const projects = [
   {
     name: "InfectaScan",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "Web application that determines the correct type of bacteria given a new image in testing allowing hospitals to identify antibiotic misuse in patients up to 70 times faster than traditional methods.",
     tags: [
       {
         name: "python",
@@ -262,7 +262,7 @@ const projects = [
   {
     name: "Job Search",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
     tags: [
       {
         name: "react native",
