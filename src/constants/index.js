@@ -28,6 +28,14 @@ import {
   reussPharmacy,
   scaleAI,
   Mubotics,
+  pythonLogo,
+  tryPng,
+  cPlusPlus,
+  javaPng,
+  postgresql,
+  axlePic,
+  infectaScanPic,
+  jobSearchPic,
 } from "../assets";
 
 export const navLinks = [
@@ -47,27 +55,27 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Full-Stack Developer",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Java/C++/Python Developer",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "React Developer",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "AI Software Engineer",
     icon: creator,
   },
 ];
 
 const technologies = [
   {
-    name: "HTML 5",
-    icon: html,
+    name: "postgresql",
+    icon: postgresql,
   },
   {
     name: "CSS 3",
@@ -78,16 +86,16 @@ const technologies = [
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
+    name: "C++",
+    icon: cPlusPlus,
   },
   {
     name: "React JS",
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "python",
+    icon: pythonLogo,
   },
   {
     name: "Tailwind CSS",
@@ -102,8 +110,8 @@ const technologies = [
     icon: mongodb,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "Java",
+    icon: javaPng,
   },
   {
     name: "git",
@@ -164,7 +172,7 @@ const experiences = [
     points: [
       "Software developer for USC's premiere, student-run, product incubator.",
       "Leveraged Git for version control and React.js to develop a sophisticated website meticulously aligned with Figma designs, showcasing a commitment to precision and innovation in web development.",
-      "Reached over a 100 users and presented startup product to an audience of over 200 people",
+      "Reached over 20 autobody shops as users and presented startup product to an audience of over 200 people",
       "Developed Axle, a cutting-edge B2B SaaS platform using React and JavaScript, that serves as an e-commerce site for car parts.",
     ],
   },
@@ -175,9 +183,8 @@ const experiences = [
     iconBg: "#383E56",
     date: "May 2024 - Present",
     points: [
-      "Enhanced the efficiency of the machine-learning model through training and advanced machine-learning techniques, leading to a 100% improvement in problem-solving accuracy and speed benefiting over 1,000,000 users.",
-      "Developed advanced models and automated systems to enhance task quality assessment and labeler performance, resulting in a 25% boost in efficiency and a 50% reduction in manual task allocation.",
-      "Designed and executed robust test cases to ensure code reliability, efficiency, and effectiveness, affirming adherence to quality standards in a variety of programming languages including C++, Java, and Python.",
+      "Developed an API to integrate UAV perception pipeline with OpenAI API using Python, enabling accurate scene comprehension and caption generation using MongoDB to store the metadata.",
+      "Implemented scene comprehension use cases with OpenCV and ChatGPT, improving UAV maneuverability and mission success rate by 30%.",
     ],
   },
 ];
@@ -185,33 +192,33 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Rakshith's cutting-edge developments in UAV technology enhanced our mission success rate by 30%. An invaluable asset to our team.",
+    name: "Thomas Youmans",
+    designation: "CEO",
+    company: "Rhoman Aerospace",
+    image: "thomasYoumans.png",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "Rakshith's innovative API integration and scene comprehension work significantly improved our UAV operations. A truly exceptional engineer.",
+    name: "Jonathan Wavell",
+    designation: "Project Manager",
+    company: "Rhoman Aerospace",
+    image: "jonathanWavell.png",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "Rakshith revolutionized our inventory management system, boosting efficiency by 80% with his innovative project. A true game-changer!",
+    name: "Anand Yaparla",
+    designation: "CEO",
+    company: "Reuss Pharmacy",
+    image: "hiddenProfile.png",
   },
 ];
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Axle",
     description:
       "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
     tags: [
@@ -220,58 +227,58 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "javascript",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "postgresql",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: axlePic,
+    source_code_link: "https://github.com/rakthuraga/Axle",
   },
   {
-    name: "Job IT",
+    name: "InfectaScan",
     description:
       "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
     tags: [
       {
-        name: "react",
+        name: "python",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "machine learning",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "docker",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: infectaScanPic,
+    source_code_link: "https://github.com/rakthuraga/InfectaScan",
   },
   {
-    name: "Trip Guide",
+    name: "Job Search",
     description:
       "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
     tags: [
       {
-        name: "nextjs",
+        name: "react native",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "rapidapi",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "javascript",
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: jobSearchPic,
+    source_code_link: "https://github.com/rakthuraga/JobSearch",
   },
 ];
 

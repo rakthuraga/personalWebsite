@@ -20,6 +20,11 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import pythonLogo from './tech/pythonLogo.png';
+import tryPng from './tech/tryPng.png';
+import cPlusPlus from './tech/cPlusPlusBetter.png';
+import javaPng from './tech/javaPng.png';
+import postgresql from './tech/postgresql.png';
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -34,6 +39,9 @@ import Mubotics from "./company/Mubotics.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import axlePic from "./axlePic.png";
+import infectaScanPic from "./infectaScanPic.png"
+import jobSearchPic from "./jobSearchPic.png"
 
 export {
   logo,
@@ -69,4 +77,12 @@ export {
   reussPharmacy,
   scaleAI,
   Mubotics,
+  pythonLogo,
+  tryPng,
+  cPlusPlus,
+  javaPng,
+  postgresql,
+  axlePic,
+  infectaScanPic,
+  jobSearchPic,
 };
