@@ -6,6 +6,7 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import logoRak from "./logoRak.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -85,4 +86,5 @@ export {
   axlePic,
   infectaScanPic,
   jobSearchPic,
+  logoRak,
 };
