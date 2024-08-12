@@ -269,15 +269,15 @@ const projects = [
     tags: [
       {
         name: "react native",
-        color: "fill-in",
+        color: "blue-text-gradient",
       },
       {
         name: "rapidapi",
-        color: "fill-in",
+        color: "green-text-gradient",
       },
       {
         name: "javascript",
-        color: "fill-in",
+        color: "pink-text-gradient",
       },
     ],
     image: jobSearchPic,
