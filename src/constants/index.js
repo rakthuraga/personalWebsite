@@ -223,7 +223,7 @@ const projects = [
   {
     name: "Axle",
     description:
-      "need to fill in",
+      "A cutting-edge B2B SaaS web-based platform that serves as an e-commerce site for car parts.",
     tags: [
       {
         name: "react",
