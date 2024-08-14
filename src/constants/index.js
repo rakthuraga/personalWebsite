@@ -213,7 +213,7 @@ const testimonials = [
     testimonial:
       "Rakshith revolutionized our inventory management system, boosting efficiency by 80% with his innovative project. A true game-changer!",
     name: "Anand Yaparla",
-    designation: "fill in",
+    designation: "CEO",
     company: "Reuss Pharmacy",
     image: hiddenProfile,
   },
