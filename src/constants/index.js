@@ -282,7 +282,7 @@ const projects = [
       },
     ],
     image: AirSimProjectDemo,
-    source_code_link: "",
+    source_code_link: "fill in",
   },
 ];
 
