@@ -281,7 +281,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobSearchPic,
+    image: AirSimProjectDemo,
     source_code_link: "https://github.com/rakthuraga/JobSearch",
   },
 ];
