@@ -282,7 +282,7 @@ const projects = [
       },
     ],
     image: AirSimProjectDemo,
-    source_code_link: "https://github.com/rakthuraga/JobSearch",
+    source_code_link: "",
   },
 ];
 
