@@ -39,6 +39,7 @@ import {
   thomasYoumans,
   jonathanWavell,
   hiddenProfile,
+  AirSimProjectDemo,
 } from "../assets";
 
 export const navLinks = [
@@ -268,15 +269,15 @@ const projects = [
       "An AI-powered drone navigation system that uses real-time image processing and command-based input to autonomously maneuver through obstacles in a simulated environment, integrating Unreal Engine and OpenAI to transform text-based instructions into precise flight commands.",
     tags: [
       {
-        name: "react native",
+        name: "Python",
         color: "blue-text-gradient",
       },
       {
-        name: "rapidapi",
+        name: "OpenAI",
         color: "green-text-gradient",
       },
       {
-        name: "javascript",
+        name: "MongoDB",
         color: "pink-text-gradient",
       },
     ],
