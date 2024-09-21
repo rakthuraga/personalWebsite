@@ -42,6 +42,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import axlePic from "./axlePic.png";
 import infectaScanPic from "./infectaScanPic.png"
+import AirSimProjectDemo from "./AirSimProjectDemo.png"
 import jobSearchPic from "./jobSearchPic.png"
 import thomasYoumans from "/thomasYoumans.png"
 import jonathanWavell from "/jonathanWavell.png"
@@ -94,4 +95,5 @@ export {
   thomasYoumans,
   jonathanWavell,
   hiddenProfile,
+  AirSimProjectDemo,
 };
