@@ -176,7 +176,7 @@ const experiences = [
     points: [
       "Software developer for USC's premiere, student-run, product incubator.",
       "Edit description",
-      "Reached over 20 autobody shops as users and presented startup product to an audience of over 200 people",
+      "Edit description",
       "Developed Axle, a cutting-edge B2B SaaS platform using React and JavaScript, that serves as an e-commerce site for car parts.",
     ],
   },
