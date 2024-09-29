@@ -195,7 +195,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Rakshith's cutting-edge developments in UAV technology enhanced our mission success rate by 30%. An invaluable asset to our team.",
+      "Rakshith's cutting-edge developments in UAV technology enhanced our mission success rate by 58%. An invaluable asset to our team.",
     name: "Thomas Youmans",
     designation: "CEO",
     company: "Rhoman Aerospace",
