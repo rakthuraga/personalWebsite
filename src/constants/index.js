@@ -175,7 +175,7 @@ const experiences = [
     date: "Feb 2024 - May 2024",
     points: [
       "Software developer for USC's premiere, student-run, product incubator.",
-      "Leveraged Git for version control and React.js to develop a sophisticated website meticulously aligned with Figma designs, showcasing a commitment to precision and innovation in web development.",
+      "Edit description",
       "Reached over 20 autobody shops as users and presented startup product to an audience of over 200 people",
       "Developed Axle, a cutting-edge B2B SaaS platform using React and JavaScript, that serves as an e-commerce site for car parts.",
     ],
