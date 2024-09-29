@@ -265,7 +265,7 @@ const projects = [
   {
     name: "OpenDrone AI",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on job preferences.",
+      "An AI-powered drone navigation system that uses real-time image processing and command-based input to autonomously maneuver through obstacles in a simulated environment, integrating Unreal Engine and OpenAI to transform text-based instructions into precise flight commands.",
     tags: [
       {
         name: "react native",
