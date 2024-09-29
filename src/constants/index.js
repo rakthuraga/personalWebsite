@@ -150,7 +150,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Jun 2023 - Aug 2023",
     points: [
-      "Led the development of an inventory control system that uses barcodes for efficient pharmacy stock management by tracking real-time inventory, monitoring expiration dates, and facilitating reorder process resulting in an 80% increase in efficiency when compared to the previous system.",
+      "Edit description",
       "Developed data pipelines using Python, NumPy, and Pandas to aggregate structured and unstructured datasets from various data sources, culminating in the organized storage of processed data within a MySQL database.",
       "Employed Scikit-learn, Seaborn, and Matplotlib to devise predictive ensemble models to predict future inventory requirements.",
     ],
