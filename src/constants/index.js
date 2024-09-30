@@ -151,7 +151,7 @@ const experiences = [
     date: "Jun 2023 - Aug 2023",
     points: [
       "Led development of a barcode-based inventory system for pharmacy stock management, improving real-time tracking, expiration monitoring, and reordering, boosting efficiency by 315% over the previous system.",
-      "Developed data pipelines using Python, NumPy, and Pandas to aggregate structured and unstructured datasets from various data sources, culminating in the organized storage of processed data within a MySQL database.",
+      "Engineered efficient data pipelines using Python, NumPy, and Pandas to seamlessly aggregate 20+ structured and unstructured datasets, applying software testing principles to ensure data accuracy and system reliability.",
       "Employed Scikit-learn, Seaborn, and Matplotlib to devise predictive ensemble models to predict future inventory requirements.",
     ],
   },
