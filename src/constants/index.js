@@ -187,8 +187,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "May 2024 - Present",
     points: [
-      "Developed an API to integrate UAV perception pipeline with OpenAI API using Python, enabling accurate scene comprehension and caption generation using MongoDB to store the metadata.",
-      "Implemented scene comprehension use cases with OpenCV and ChatGPT, improving UAV maneuverability and mission success rate by 30%.",
+      "Edit description",
     ],
   },
 ];
