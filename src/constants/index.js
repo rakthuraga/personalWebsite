@@ -162,7 +162,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "Dec 2023 - Mar 2024",
     points: [
-      "Edit description",
+      "Conceived an efficient task routing solution leveraging optimal data structures, algorithms, and automation tools like Selenium and Java; streamlined workflows, reducing task turnaround time by 25% and enhancing team productivity.",
       "Developed advanced models and automated systems to enhance task quality assessment and labeler performance, resulting in a 25% boost in efficiency and a 50% reduction in manual task allocation.",
       "Designed and executed robust test cases to ensure code reliability, efficiency, and effectiveness, affirming adherence to quality standards in a variety of programming languages including C++, Java, and Python.",
     ],
