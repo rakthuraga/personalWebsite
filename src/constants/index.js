@@ -163,7 +163,7 @@ const experiences = [
     date: "Dec 2023 - Mar 2024",
     points: [
       "Conceived an efficient task routing solution leveraging optimal data structures, algorithms, and automation tools like Selenium and Java; streamlined workflows, reducing task turnaround time by 25% and enhancing team productivity.",
-      "Need to edit this",
+      "Built an intuitive frontend interface using React.js, enabling customers to submit tasks and labelers to manage workloads, impacting over 100,000 users.",
       "Designed and executed robust test cases to ensure code reliability, efficiency, and effectiveness, affirming adherence to quality standards in a variety of programming languages including C++, Java, and Python.",
     ],
   },
