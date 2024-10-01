@@ -152,7 +152,7 @@ const experiences = [
     points: [
       "Led development of a barcode-based inventory system for pharmacy stock management, improving real-time tracking, expiration monitoring, and reordering, boosting efficiency by 315% over the previous system.",
       "Engineered efficient data pipelines using Python, NumPy, and Pandas to seamlessly aggregate 20+ structured and unstructured datasets, applying software testing principles to ensure data accuracy and system reliability.",
-      "Employed Scikit-learn, Seaborn, and Matplotlib to devise predictive ensemble models to predict future inventory requirements.",
+      "need to edit",
     ],
   },
   {
