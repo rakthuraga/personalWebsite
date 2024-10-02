@@ -164,7 +164,7 @@ const experiences = [
     points: [
       "Conceived an efficient task routing solution leveraging optimal data structures, algorithms, and automation tools like Selenium and Java; streamlined workflows, reducing task turnaround time by 25% and enhancing team productivity.",
       "Built an intuitive frontend interface using React.js, enabling customers to submit tasks and labelers to manage workloads, impacting over 100,000 users.",
-      "Designed and executed robust test cases to ensure code reliability, efficiency, and effectiveness, affirming adherence to quality standards in a variety of programming languages including C++, Java, and Python.",
+      "Composed and executed over 500 detailed test cases across C++, Java, and Python to confirm code stability; ensured all features met defined quality standards resulting in zero regression issues during deployment.",
     ],
   },
   {
