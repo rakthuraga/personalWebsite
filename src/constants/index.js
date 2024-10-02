@@ -187,7 +187,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "May 2024 - Present",
     points: [
-      "Edit description",
+      "Designed and implemented an innovative data model within MongoDB to improve storage efficiency for 150+ unique drone mission scenarios, directly facilitating faster retrieval of critical information during real-time operations.",
     ],
   },
 ];
