@@ -188,6 +188,7 @@ const experiences = [
     date: "May 2024 - Present",
     points: [
       "Designed and implemented an innovative data model within MongoDB to improve storage efficiency for 150+ unique drone mission scenarios, directly facilitating faster retrieval of critical information during real-time operations.",
+      "Implemented scene comprehension use cases leveraging OpenCV and ChatGPT within an Unreal Engine 5 Airsim environment, resulting in a 58% improvement in UAV maneuverability and mission success rate.",
     ],
   },
 ];
