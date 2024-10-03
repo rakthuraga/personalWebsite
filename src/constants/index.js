@@ -175,7 +175,7 @@ const experiences = [
     date: "Feb 2024 - May 2024",
     points: [
       "Software developer for USC's premiere, student-run, product incubator.",
-      "Edit description",
+      "Developed Axle, a full stack B2B SaaS platform utilizing React and JavaScript that simplified the e-commerce process for car parts, applying a solid understanding of software engineering concepts and methodologies.",
       "Edit description",
       "Edit description",
     ],
