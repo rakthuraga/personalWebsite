@@ -177,7 +177,7 @@ const experiences = [
       "Software developer for USC's premiere, student-run, product incubator.",
       "Developed Axle, a full stack B2B SaaS platform utilizing React and JavaScript that simplified the e-commerce process for car parts, applying a solid understanding of software engineering concepts and methodologies.",
       "Engineered database management processes with PostgreSQL that streamlined operational efficiency; reduced manual entry errors by handling up to 1,000 transactions daily without compromising accuracy or performance.",
-      "Edit description",
+      "Spearheaded the launch of a Minimum Viable Product (MVP) using Scrum-based Agile methodologies, gathering customer feedback throughout; adoption by over 20 auto body shops led to a 65% increase in operational efficiency.",
     ],
   },
   {
