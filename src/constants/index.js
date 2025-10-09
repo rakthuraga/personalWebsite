@@ -28,6 +28,8 @@ import {
   reussPharmacy,
   scaleAI,
   Mubotics,
+  generalMotors,
+  keplrAI,
   pythonLogo,
   tryPng,
   cPlusPlus,
@@ -174,10 +176,9 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Feb 2024 - May 2024",
     points: [
-      "Software developer for USC's premiere, student-run, product incubator.",
-      "Developed Axle, a full stack B2B SaaS platform utilizing React and JavaScript that simplified the e-commerce process for car parts, applying a solid understanding of software engineering concepts and methodologies.",
+      "Developed Axle, a full stack B2B SaaS and mobile platform utilizing React and JavaScript that simplified the e-commerce process for car parts, applying software design principles and object-oriented programming.",
       "Engineered database management processes with PostgreSQL that streamlined operational efficiency; reduced manual entry errors by handling up to 1,000 transactions daily without compromising accuracy or performance.",
-      "Spearheaded the launch of a Minimum Viable Product (MVP) using Scrum-based Agile methodologies, gathering customer feedback throughout; adoption by over 20 auto body shops led to a 65% increase in operational efficiency.",
+      "Spearheaded the launch of a Minimum Viable Product (MVP) employing Scrum-based Agile methodologies, gathering customer feedback throughout; adoption by over 20 auto body shops led to a 65% increase in operational productivity.",
     ],
   },
   {
@@ -185,10 +186,33 @@ const experiences = [
     company_name: "Rhoman Aerospace",
     icon: rhomanAerospace,
     iconBg: "#383E56",
-    date: "May 2024 - Present",
+    date: "May 2024 - Sep 2024",
     points: [
       "Designed and implemented an innovative data model within MongoDB to improve storage efficiency for 150+ unique drone mission scenarios, directly facilitating faster retrieval of critical information during real-time operations.",
-      "Implemented scene comprehension use cases leveraging OpenCV and ChatGPT within an Unreal Engine 5 Airsim environment, resulting in a 58% improvement in UAV maneuverability and mission success rate.",
+      "Implemented scene comprehension use cases leveraging OpenCV and the OpenAI API within an Unreal Engine environment, resulting in a 58% improvement in UAV maneuverability and mission success rate.",
+    ],
+  },
+  {
+    title: "CTO",
+    company_name: "KeplrAI (Keplr)",
+    icon: keplrAI,
+    iconBg: "#E6DEDD",
+    date: "Nov 2024 - May 2025",
+    points: [
+      "Architected and created an AI-powered platform leveraging AWS, React, and PostgreSQL to automate enterprise inventory management and Request for Quotation (RFQ) processes, resulting in a 5x faster workflow.",
+      "Secured strategic pilot partnerships, including Enerflex, and preparing to deploy AI-driven solutions directly integrated with SAP ERP systems to automatically recommend optimal suppliers based on price, delivery speed, and past performance, managing upwards of 5,000 RFQs monthly.",
+    ],
+  },
+  {
+    title: "AI & Full-Stack Software Engineer Intern",
+    company_name: "General Motors",
+    icon: generalMotors,
+    iconBg: "#E6DEDD",
+    date: "May 2025 - Aug 2025",
+    points: [
+      "Developed an AI-powered assistant enabling GM fleet managers to access insights for their fleets via conversational queries, replacing manual SQL workflows; positioned as a scalable SaaS product projected to support 1M+ vehicles and generate $30M+ in annual revenue.",
+      "Engineered a Python-based MLflow evaluation pipeline with a custom dataset and automated evaluation framework that triggers on every model deployment in Databricks, reducing end-to-end model evaluation time by 85%.",
+      "Improved AI assistant accuracy by 50% on custom metrics (VES, soft-F1, EX) through prompt engineering, golden query validation, and optimizing data tables as part of iterative refinement in Databricks.",
     ],
   },
 ];

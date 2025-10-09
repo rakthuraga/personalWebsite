@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        I'm a proficient software developer with extensive experience in Python, C++, Java, and Javascipt, and expertise in frameworks like React and Node.js. I am a dynamic, results-oriented Software Engineer with a proven track record of excellence, demonstrated by my successful development and implementation of impactful projects at five different companies.
+        I'm a proficient software developer with extensive experience in Python, C++, Java, and JavaScript, and expertise in frameworks like React and Node.js. I am a dynamic, results-oriented Software Engineer with a proven track record of excellence, demonstrated by my successful development and implementation of impactful projects at five different companies.
         Let's work together to bring your ideas to life!
       </motion.p>
 

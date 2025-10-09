@@ -36,6 +36,8 @@ import rhomanAerospace from "./company/rhomanAerospace.png";
 import reussPharmacy from "./company/reussPharmacy.png";
 import scaleAI from "./company/scaleAI.png";
 import Mubotics from "./company/Mubotics.png";
+import generalMotors from "./company/generalMotors.png";
+import keplrAI from "./company/keplrai.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -83,6 +85,8 @@ export {
   reussPharmacy,
   scaleAI,
   Mubotics,
+  generalMotors,
+  keplrAI,
   pythonLogo,
   tryPng,
   cPlusPlus,
